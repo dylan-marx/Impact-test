@@ -15,7 +15,7 @@ This repository contains my implementation of Impact's technical test. A comma d
 
 ```
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/dylan-marx/Impact-test.git
 cd Impact-test
 cd NumberRangeSummarizer
 
