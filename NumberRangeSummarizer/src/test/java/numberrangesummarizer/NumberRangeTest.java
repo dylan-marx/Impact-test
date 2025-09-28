@@ -8,6 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * Tests cover basic functionality, edge cases, and error conditions.
+ * 
  */
 public class NumberRangeTest {
     
